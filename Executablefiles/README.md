@@ -13,21 +13,18 @@
 ## 📸 Demo Visuals
 
 ### 🏠 Home Page  
-![Home](https://raw.githubusercontent.com/RAFIROCK/smart-bridge/main/Executablefiles/static/img/home1.JPG)
-![Home](https://raw.githubusercontent.com/RAFIROCK/smart-bridge/main/Executablefiles/static/img/home2.JPG)
+file:///C:/Users/USER/OneDrive/Desktop/long/smart-bridge-main/Executablefiles/templates/index.html
 
 ### 🔍 Predict Page  
-![Predict](https://raw.githubusercontent.com/RAFIROCK/smart-bridge/main/Executablefiles/static/img/predict.JPG)
+![Predict]file:///C:/Users/USER/OneDrive/Desktop/long/smart-bridge-main/Executablefiles/templates/predict.html
 
 ### 📈 Result Output  
-![Result](https://raw.githubusercontent.com/RAFIROCK/smart-bridge/main/Executablefiles/static/img/result1.JPG)
-
+![Result]file:///C:/Users/USER/OneDrive/Desktop/long/smart-bridge-main/Executablefiles/templates/output.html
 ### About
-![About](https://raw.githubusercontent.com/RAFIROCK/smart-bridge/main/Executablefiles/static/img/about.JPG)
+![About]file:///C:/Users/USER/OneDrive/Desktop/long/smart-bridge-main/Executablefiles/templates/about.html
 
 ### Contact
-![Contact](https://raw.githubusercontent.com/RAFIROCK/smart-bridge/main/Executablefiles/static/img/contact.JPG)
-
+![Contact]file:///C:/Users/USER/OneDrive/Desktop/long/smart-bridge-main/Executablefiles/templates/contact.html
 ## 🎥Demo Video:
 https://drive.google.com/file/d/1EcAr1ilwNYb5LmQCAqHbLeSSfQie_aP0/view?usp=drive_link
 
@@ -86,8 +83,7 @@ smart-sorting/
 ## 📦 How to Run Locally
 ```
 # Clone the repository
-git clone https://github.com/RAFIROCK/smart-bridge.git
-cd smart-bridge
+git clone (https://github.com/ShaikThasmiya26/Smart-bridge)
 
 # Optional: create virtual environment
 python -m venv venv
@@ -109,7 +105,7 @@ Then open http://127.0.0.1:5000 in your browser.
 
 | Name             | Role               | GitHub Profile                          |
 |------------------|--------------------|------------------------------------------|
-| V MAHAMMAD RAFI   | Project Lead & Developer| [@RAFIROCK](https://github.com/RAFIROCK) |
+| Shaik Thasmiya   | Project member & Developer|(https://github.com/ShaikThasmiya26) |
 
 ## 🎯 Use Cases-
 🏭 Factories: Automated sorting of fresh vs rotten produce
@@ -128,9 +124,9 @@ VGG16 – pre-trained model for transfer learning
 Flask – lightweight Python web framework
 
 # ✍️ Author
-## 🧑🏻‍💻 V MAHAMMAD RAFI
-## 🔗 GitHub: https://github.com/RAFIROCK
-## 🔗 Repository: https://github.com/RAFIROCK/smart-bridge
+## 🧑🏻‍💻 Shaik Thasmiya
+## 🔗 GitHub: https://github.com/ShaikThasmiya26
+## 🔗 Repository:https://github.com/ShaikThasmiya26/Smart-bridge
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
